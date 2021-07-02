@@ -30,7 +30,7 @@ International Conference on Research, Innovation and Vision for the Future (RIVF
 [[PDF](https://www.researchgate.net/publication/352794568_MC-OCR_Challenge_2021_Deep_Learning_Approach_for_Vietnamese_Receipts_OCR)]<br/>
 
 VinaFood21:  A Novel Dataset for Evaluating Vietnamese Food Recognition</br>
-Thuan Trong Nguyen, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, *Nguyen D. Vo*, Kiet Van Nguyen, Khang Nguyen
+Thuan Trong Nguyen, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, *Nguyen D. Vo*, Kiet Van Nguyen, Khang Nguyen<br/>
 International Conference on Research, Innovation and Vision for the Future (RIVF),2021<br/>
 [[PDF](https://www.researchgate.net/publication/352900778_VinaFood21_A_Novel_Dataset_for_Evaluating_Vietnamese_Food_Recognition)]<br/>
 
