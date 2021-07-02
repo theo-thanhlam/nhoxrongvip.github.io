@@ -27,7 +27,7 @@ Working on computer vision and deep learning.<br/>
 MC-OCR Challenge 2021: Deep Learning Approach for Vietnamese Receipts OCR<br/>
 Doanh C. Bui, Dung Truong, *Nguyen D. Vo*, Khang Nguyen<br/>
 International Conference on Research, Innovation and Vision for the Future (RIVF),2021<br/>
-[[PDF](https://www.researchgate.net/publication/352794568_MC-OCR_Challenge_2021_Deep_Learning_Approach_for_Vietnamese_Receipts_OCR)]</br>
+[[PDF](https://www.researchgate.net/publication/352794568_MC-OCR_Challenge_2021_Deep_Learning_Approach_for_Vietnamese_Receipts_OCR)]<br/>
 
 VinaFood21:  A Novel Dataset for Evaluating Vietnamese Food Recognition</br>
 Thuan Trong Nguyen, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, *Nguyen D. Vo*, Kiet Van Nguyen, Khang Nguyen
@@ -67,7 +67,7 @@ International Conference on Ubiquitous Information Management and Communication 
 [Here](https://github.com/caodoanh2001/Certificates) -->
 
 ## <a name="misc"></a> Misc
-**Teaching**
+**Teaching**<br/>
 2020 Spring , Statistical Learning,  VNUHCM-UIT, Teaching Assistant<br/>
 2020 Fall, Introduction to Programming, VNUHCM-UIT, Lecture<br/>
 2019 Spring , Statistical Learning,  VNUHCM-UIT, Teaching Assistant<br/>
