@@ -10,7 +10,7 @@ main:
     url: "#publication"    
   
   - title: "Datasets"
-    url: "#datasets"      
+    url: "https://github.com/nguyenvd-uit/uit-together-dataset"      
   
   - title: "Misc"
     url: "#misc"  
