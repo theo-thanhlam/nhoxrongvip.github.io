@@ -12,7 +12,7 @@ I am interested in computer vision and machine learning, and more specifically i
 
 ## <a name="exp"></a> Experience
 
-***The University of Information Technology, VNU-HCM***<br/>
+***University of Information Technology, VNU-HCM***<br/>
 Jul 2017 - Present, Researcher<br/>
 Working on computer vision and deep learning.<br/>
 
