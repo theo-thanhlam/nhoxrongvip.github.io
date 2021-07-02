@@ -32,7 +32,8 @@ International Conference on Research, Innovation and Vision for the Future (RIVF
 VinaFood21:  A Novel Dataset for Evaluating Vietnamese Food Recognition<br/>
 Thuan Trong Nguyen, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, *Nguyen D. Vo*, Kiet Van Nguyen, Khang Nguyen<br/>
 International Conference on Research, Innovation and Vision for the Future (RIVF),2021<br/>
-[[PDF](https://www.researchgate.net/publication/352900778_VinaFood21_A_Novel_Dataset_for_Evaluating_Vietnamese_Food_Recognition)],  [[Request dataset](https://nguyenvd-uit.github.io/#datasets)]<br/>
+[[PDF](https://www.researchgate.net/publication/352900778_VinaFood21_A_Novel_Dataset_for_Evaluating_Vietnamese_Food_Recognition)],
+[[Dataset](https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/VinaFood21.md)]<br/>
 
 Vehicle Detection at Night Time<br/>
 Ngoc Ho, Mai Pham, *Nguyen D. Vo*, Khang Nguyen<br/>
