@@ -27,7 +27,7 @@ Working on computer vision and deep learning.<br/>
 Parsing Digitized Vietnamese Paper Documents<br/>
 Linh Truong Dieu, Thuan Trong Nguyen, *Nguyen D. Vo*,Tam V. Nguyen, Khang Nguyen<br/>
 International Conference on Computer Analysis of Images and Patterns (CAIP) 2021<br/>
-[[PDF](https://www.researchgate.net/publication/353347000_Parsing_Digitized_Vietnamese_Paper_Documents)]<br/>
+[[PDF](https://www.researchgate.net/publication/353347000_Parsing_Digitized_Vietnamese_Paper_Documents)], 
 [[Dataset](https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-DODV.md)]<br/>
 
 MC-OCR Challenge 2021: Deep Learning Approach for Vietnamese Receipts OCR<br/>
